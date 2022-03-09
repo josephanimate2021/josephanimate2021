@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - <a href="https://github.com/josephanimate2021"><img src="https://github-readme-stats.vercel.app/api?username=josephanimate2021&count_private=true&show_icons=true&theme=dark"></a>
-- ![wrap](https://github-readme-stats.vercel.app/api/pin/?username=josephanimate2021&repo=Vyond-Legacy-Offline&theme=dark&show_owner=true)
-- ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=josephanimate2021&theme=dark)
+- <a href="https://github.com/josephanimate2021/Vyond-Legacy-Offline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=josephanimate2021&repo=Vyond-Legacy-Offline&theme=dark&show_owner=true"></a>
+- <a href="https://github.com/josephanimate2021"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephanimate2021&theme=dark"></a>
 
