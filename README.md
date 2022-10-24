@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephanimate2021
-- 👀 I’m interested in GoAnimate
-- 🌱 I’m currently learning how to speak french
+- 👀 I’m interested in zimmertwins
+- 🌱 I will learn python sometime soon along with KiaWeb
 - 💞️ I’m looking to collaborate on lvm projects that some of my friends made
 - 📫 How to reach me: joseph the animator#2292 on discord
 
